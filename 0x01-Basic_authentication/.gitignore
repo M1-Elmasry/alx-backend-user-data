@@ -1,6 +1,6 @@
 # ignore venv files
-.bin
-.lib
-.pyvenv.cfg
-.include
-.lib64
+/bin
+/lib
+pyvenv.cfg
+/include
+lib64
